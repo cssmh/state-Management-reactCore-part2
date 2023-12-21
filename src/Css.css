@@ -1,0 +1,12 @@
+.bgm{
+    background-color:blueviolet;
+    padding: 14px;
+    border-radius: 20px;
+}
+.bgm:hover{
+    background-color: #2980b9;
+}
+
+.gap{
+    margin-right: 12px;
+}
