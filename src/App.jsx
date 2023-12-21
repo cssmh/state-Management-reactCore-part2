@@ -1,6 +1,7 @@
 import "./App.css";
 import './Css.css'
 import Counters from "./Counter";
+import Team from "./Team";
 
 function App() {
   const btn = (num) => {
@@ -9,6 +10,8 @@ function App() {
   return (
     <>
       <h2 className="bgm">React core concept Part2</h2>
+
+      <Team></Team>
 
       <Counters></Counters>
 
